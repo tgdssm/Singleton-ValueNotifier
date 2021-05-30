@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_app_singletons/data/singleton.dart';
-import 'package:flutter_app_singletons/data/widgets/dropdown_name.dart';
+import 'package:flutter_app_singletons/widgets/dropdown_name.dart';
 
 class OtherScreen extends StatelessWidget {
   final _mySingleton = MySingleton();
